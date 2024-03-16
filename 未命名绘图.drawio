@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2024-03-16T10:09:01.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="asnEr32HyOVKwCyk3KjP" version="24.0.7" type="github">
+  <diagram name="第 1 页" id="bQlgI0tyTVdaAX2piIxp">
+    <mxGraphModel dx="2003" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A5v0Ux-xEnM7_zbf_uh9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5v0Ux-xEnM7_zbf_uh9-1" target="A5v0Ux-xEnM7_zbf_uh9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5v0Ux-xEnM7_zbf_uh9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5v0Ux-xEnM7_zbf_uh9-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5v0Ux-xEnM7_zbf_uh9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="535" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A5v0Ux-xEnM7_zbf_uh9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="555" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="A5v0Ux-xEnM7_zbf_uh9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
